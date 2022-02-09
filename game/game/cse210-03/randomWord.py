@@ -4,6 +4,7 @@
 # guessing_word The filled-in letters that the player has guessed of the word. Missing letters are represented by '_'.
 # isCorrect(letter) Checks if letter is in complete_word. If it is then letter will be added into guessing_word and returns True.
 #                   Otherwise returns False.
+#Author: Jacob Dabling
 import random
 
 class randomWord:
